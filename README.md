@@ -1,2 +1,2 @@
 # Alura-cronometro-tarefas
-Cursos feitos na alura
+1 curso da alura, feito um cronometro de tarefas para aprendizagem do básico em React
